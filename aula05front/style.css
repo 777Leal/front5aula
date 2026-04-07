@@ -1,0 +1,74 @@
+/* div { */
+    /* border: solid 1px black;
+    display: inline-block;
+    font-size: 32px;
+    font-family: Arial;
+/* 
+    width: 100px;
+    height: 130px;
+
+    overflow: scroll; */
+
+// Anexando Margem
+    /* margin-top: 5px 10px 12px 15px; */
+    /* margin-right: 10px;
+    margin-bottom: 12px;
+
+    padding: 10px 30px; */ */
+
+    /* border-top: solid 5px red;
+    border-right: solid 10px purple;
+    border-bottom: solid 7px green;
+    border-left: solid 12px yellow;
+
+    width: 250px;
+    height: 150px;
+    margin-top: 20px;
+    padding: 20px 40px;
+
+    border-radius: 100%;
+}
+
+p {
+    display: inline;
+    background-color: yellow;
+}
+
+span {
+    display: block;
+    background-color: purple;
+} */
+
+p {
+    font-size: 35px;
+}
+
+div {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+.azul {
+    border: solid 1px blue;
+    background-color: lightblue;
+}
+
+.laranja {
+    border: solid 4px orange;
+    background-color: yellow;
+    position: absolut; // relative */
+    top: 430px;
+    left: 80px;
+}
+
+.roxo {
+    width: 100px;
+    height: 100px;
+    border: solid 4px purple;
+    background-color: pink;
+    position: fixed;
+    top: 10px;
+    left: 10px
+
+}
